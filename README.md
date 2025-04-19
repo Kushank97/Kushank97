@@ -1,16 +1,14 @@
-## Hi there 👋
+I'm a self-driven Aspiring Data Analyst on a journey to master the art of data storytelling.
 
-<!--
-**Kushank97/Kushank97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📘 Currently learning: Machine Learning, Statistics  
+✅ Completed: Python, SQL, Power BI, Excel projects
 
-Here are some ideas to get you started:
+🔍 I love diving into:
+- Real-world datasets (Kaggle, Govt Portals, APIs)
+- Creating dashboards with Power BI
+- Exploring insights with Python (Pandas,Numpy, Seaborn, Matplotlib)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My projects are organized and open — feel free to explore.
+
+📎 Let's connect on LinkedIn-  www.linkedin.com/in/kushank-sharma-72bb86296
+
